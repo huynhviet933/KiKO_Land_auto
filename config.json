@@ -1,0 +1,9 @@
+{
+  "threads": 100,
+  "minDelayAction": 3,
+  "maxDelayAction": 10,
+  "minDelayNextAccount": 30,
+  "maxDelayNextAccount": 60,
+  "startInterval": 5,
+  "enableRef": true
+}
